@@ -1,6 +1,6 @@
 # chatroom
 
-> A Vue.js project
+A custom chatroom using Vue.js + Node.js + Express + MongoDB, complete with automated chatbots.
 
 ## Build Setup
 
